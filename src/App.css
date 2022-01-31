@@ -1,9 +1,14 @@
 .app {
-  display: flex;
   padding: 30px;
+  background-color: #B1D0E0;
 }
 
 .game{
+  background-color: #6998AB;
+  border-style: groove;
+  border-color: gray;
+  border-radius: 2%;
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
   height: 560px;
@@ -13,4 +18,11 @@
 .game img{
   width: 70px;
   height: 70px;
+}
+
+.scoreboard{
+  margin: auto;
+  width: fit-content;
+  text-align: center;
+  font-family: Georgia;
 }

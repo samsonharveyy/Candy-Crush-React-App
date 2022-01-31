@@ -178,6 +178,9 @@ const App = () => {
 
   return (
     <div class="app">
+      <div class="row">
+        <ScoreBoard score={totalScore}/>
+      </div>
       <div class="game">
         {currentCandyArr.map((candyColor, index)=> (
           <img
@@ -195,7 +198,6 @@ const App = () => {
           />
         ))}
       </div>
-      <ScoreBoard score={totalScore}/>
     </div>
   )
 
