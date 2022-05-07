@@ -1,6 +1,6 @@
 # Candy Crush React App
 
-This project is a simple version of the Candy Crush App.
+This project is a simple version of the Candy Crush App built on ReactJS.
 
 ## Run App in Local
 The app requires your machine to have Node installed. 
