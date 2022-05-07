@@ -1,6 +1,7 @@
 # Candy Crush React App
 
 This project is a simple version of the Candy Crush App built on ReactJS.
+App is live and running: *[Candy Crush React App](https://candy-crush-react.herokuapp.com/)
 
 ## Run App in Local
 The app requires your machine to have Node installed. 
