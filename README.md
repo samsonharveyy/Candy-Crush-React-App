@@ -20,3 +20,4 @@ npm start
 
 ## References
 * [Codealong Video](https://www.youtube.com/watch?v=PBrEq9Wd6_U)
+* [ReactJS Documentation](https://devdocs.io/react/)
